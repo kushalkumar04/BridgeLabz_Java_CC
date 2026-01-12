@@ -15,6 +15,7 @@ public class ProfitLoss {
                 "The Cost Price is INR " + costPrice +
                         " and the Selling Price is INR " + sellingPrice +
                         "\nThe Profit is INR " + profit +
+                        
                         " and the Profit Percentage is " + profitPercentage
         );
     }
