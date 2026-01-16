@@ -13,7 +13,7 @@
 - **19-Dec-2025 (Friday):** Understanding arrays , Arrays LeveL 1
 - **20-Dec-2025 (Saturday):** Arrays Level 3
 - **22-Dec-2025 (Monday):** Understanding Methods
-- 
+  
 
 - **08-Jan-2026 (Thursday):** Installation, java basics
 - **09-Jan-2026 (Friday):** Git structure and Level 1 problems
