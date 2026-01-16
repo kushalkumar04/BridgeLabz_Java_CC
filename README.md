@@ -1,4 +1,4 @@
-# BridgeLabz_Java_CG
+# BridgeLabz_Java
 
 ## 09.01.2026
 - **what have I done :** Installation , Java basics , Level 1 problems
